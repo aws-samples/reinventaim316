@@ -1,11 +1,6 @@
-## My Project
+# Introduction
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+In this workshop, we will demonstrate Intelligent Document processing (IDP) on AWS with respect to Mortgage Documents. We will be detecting and analyzing data from documents with Amazon Textract and Amazon Comprehend. We will walk through a multitude of different features to understand how they work together for different use cases, and by the end of the workshop users will have processed a mortgage request end to end! 
 
 ## Security
 
